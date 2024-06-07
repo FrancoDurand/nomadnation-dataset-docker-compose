@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6658d7639f549b72ab7fabb1"
+  },
+  "destination": "Arequipa",
+  "price": 250,
+  "description": "Explora la \"Ciudad Blanca\" de Arequipa y el impresionante Cañón del Colca.",
+  "images": [
+    "/images/arequipa1.webp",
+    "/images/arequipa2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6658d7639f549b72ab7fabae"
+  },
+  "destination": "Machu Picchu",
+  "price": 500,
+  "description": "Explora la increíble ciudadela inca de Machu Picchu con este paquete todo incluido.",
+  "images": [
+    "/images/machu-picchu1.webp",
+    "/images/machu-picchu2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6658d7639f549b72ab7fabb0"
+  },
+  "destination": "Lima",
+  "price": 200,
+  "description": "Visita la vibrante capital de Perú, conocida por su gastronomía y cultura.",
+  "images": [
+    "/images/lima1.webp",
+    "/images/lima2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6658d7639f549b72ab7fabaf"
+  },
+  "destination": "Cusco",
+  "price": 300,
+  "description": "Descubre la histórica ciudad de Cusco, la capital del Imperio Inca.",
+  "images": [
+    "/images/cusco1.webp",
+    "/images/cusco2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6658d7639f549b72ab7fabb3"
+  },
+  "destination": "Iquitos",
+  "price": 400,
+  "description": "Aventura en la selva amazónica, incluyendo paseos en bote y avistamiento de fauna.",
+  "images": [
+    "/images/iquitos1.webp",
+    "/images/iquitos2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6658d7639f549b72ab7fabb2"
+  },
+  "destination": "Puno",
+  "price": 220,
+  "description": "Descubre el lago Titicaca y las islas flotantes de los Uros en Puno.",
+  "images": [
+    "/images/puno1.webp",
+    "/images/puno2.webp"
+  ]
+}]

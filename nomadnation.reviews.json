@@ -1,0 +1,753 @@
+[{
+  "_id": {
+    "$oid": "665ba98bc96d7276fb93620a"
+  },
+  "offer": {
+    "$oid": "6658d7639f549b72ab7fabb1"
+  },
+  "author": {
+    "$oid": "665919b3c8e7dcb7921b7b6c"
+  },
+  "title": "Secretos ocultos de Arequipa",
+  "media": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936205"
+      },
+      "route": "/media/665ba98bc96d7276fb936205.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936206"
+      },
+      "route": "/media/665ba98bc96d7276fb936206.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936207"
+      },
+      "route": "/media/665ba98bc96d7276fb936207.jpg"
+    }
+  ],
+  "post": "Mi visita a Arequipa superó todas mis expectativas. La combinación de cultura, historia y naturaleza es simplemente perfecta.",
+  "comments": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936208"
+      },
+      "author": {
+        "$oid": "6659195cc8e7dcb7921b7b69"
+      },
+      "comment": "Increíble aventura"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936209"
+      },
+      "author": {
+        "$oid": "665919c9c8e7dcb7921b7b6d"
+      },
+      "comment": "Quiero volver pronto"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665ba98bc96d7276fb936211"
+  },
+  "offer": {
+    "$oid": "6658d7639f549b72ab7fabb1"
+  },
+  "author": {
+    "$oid": "6659195cc8e7dcb7921b7b69"
+  },
+  "title": "Aventuras en Arequipa",
+  "media": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93620b"
+      },
+      "route": "/media/665ba98bc96d7276fb93620b.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93620c"
+      },
+      "route": "/media/665ba98bc96d7276fb93620c.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93620d"
+      },
+      "route": "/media/665ba98bc96d7276fb93620d.jpg"
+    }
+  ],
+  "post": "Mi visita a Arequipa superó todas mis expectativas. La combinación de cultura, historia y naturaleza es simplemente perfecta.",
+  "comments": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93620e"
+      },
+      "author": {
+        "$oid": "66591928c8e7dcb7921b7b66"
+      },
+      "comment": "Hermosos paisajes"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93620f"
+      },
+      "author": {
+        "$oid": "665919d4c8e7dcb7921b7b6e"
+      },
+      "comment": "Hermosos paisajes"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936210"
+      },
+      "author": {
+        "$oid": "665919a9c8e7dcb7921b7b6b"
+      },
+      "comment": "Muy bonito y acogedor"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665ba98bc96d7276fb936217"
+  },
+  "offer": {
+    "$oid": "6658d7639f549b72ab7fabb1"
+  },
+  "author": {
+    "$oid": "66591928c8e7dcb7921b7b66"
+  },
+  "title": "Secretos ocultos de Arequipa",
+  "media": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936212"
+      },
+      "route": "/media/665ba98bc96d7276fb936212.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936213"
+      },
+      "route": "/media/665ba98bc96d7276fb936213.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936214"
+      },
+      "route": "/media/665ba98bc96d7276fb936214.jpg"
+    }
+  ],
+  "post": "Mi viaje a Arequipa fue una experiencia única. La belleza natural y la rica cultura local hicieron que cada día fuera inolvidable.",
+  "comments": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936215"
+      },
+      "author": {
+        "$oid": "665919a9c8e7dcb7921b7b6b"
+      },
+      "comment": "Hermosos paisajes"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936216"
+      },
+      "author": {
+        "$oid": "66591944c8e7dcb7921b7b67"
+      },
+      "comment": "Una experiencia inolvidable"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665ba98bc96d7276fb93621f"
+  },
+  "offer": {
+    "$oid": "6658d7639f549b72ab7fabae"
+  },
+  "author": {
+    "$oid": "6659199bc8e7dcb7921b7b6a"
+  },
+  "title": "Escapada urbana a Machu Picchu",
+  "media": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936218"
+      },
+      "route": "/media/665ba98bc96d7276fb936218.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936219"
+      },
+      "route": "/media/665ba98bc96d7276fb936219.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93621a"
+      },
+      "route": "/media/665ba98bc96d7276fb93621a.jpg"
+    }
+  ],
+  "post": "Mi viaje a Machu Picchu fue una experiencia única. La belleza natural y la rica cultura local hicieron que cada día fuera inolvidable.",
+  "comments": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93621b"
+      },
+      "author": {
+        "$oid": "6659195cc8e7dcb7921b7b69"
+      },
+      "comment": "Una experiencia inolvidable"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93621c"
+      },
+      "author": {
+        "$oid": "66591950c8e7dcb7921b7b68"
+      },
+      "comment": "Una experiencia inolvidable"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93621d"
+      },
+      "author": {
+        "$oid": "66591928c8e7dcb7921b7b66"
+      },
+      "comment": "Quiero volver pronto"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93621e"
+      },
+      "author": {
+        "$oid": "665919b3c8e7dcb7921b7b6c"
+      },
+      "comment": "La mejor experiencia de mi vida"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665ba98bc96d7276fb936228"
+  },
+  "offer": {
+    "$oid": "6658d7639f549b72ab7fabb0"
+  },
+  "author": {
+    "$oid": "6659195cc8e7dcb7921b7b69"
+  },
+  "title": "Lima en todas sus facetas",
+  "media": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936220"
+      },
+      "route": "/media/665ba98bc96d7276fb936220.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936221"
+      },
+      "route": "/media/665ba98bc96d7276fb936221.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936222"
+      },
+      "route": "/media/665ba98bc96d7276fb936222.jpg"
+    }
+  ],
+  "post": "Recomiendo a todos visitar Lima al menos una vez en la vida. Es un lugar que realmente te deja sin palabras.",
+  "comments": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936223"
+      },
+      "author": {
+        "$oid": "66591950c8e7dcb7921b7b68"
+      },
+      "comment": "Fascinante viaje"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936224"
+      },
+      "author": {
+        "$oid": "66591928c8e7dcb7921b7b66"
+      },
+      "comment": "Me encantó este lugar"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936225"
+      },
+      "author": {
+        "$oid": "6659195cc8e7dcb7921b7b69"
+      },
+      "comment": "Muy bonito y acogedor"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936226"
+      },
+      "author": {
+        "$oid": "66591928c8e7dcb7921b7b66"
+      },
+      "comment": "Increíble aventura"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936227"
+      },
+      "author": {
+        "$oid": "66591950c8e7dcb7921b7b68"
+      },
+      "comment": "Una experiencia inolvidable"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665ba98bc96d7276fb936231"
+  },
+  "offer": {
+    "$oid": "6658d7639f549b72ab7fabaf"
+  },
+  "author": {
+    "$oid": "66591944c8e7dcb7921b7b67"
+  },
+  "title": "Descubriendo la belleza de Cusco",
+  "media": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936229"
+      },
+      "route": "/media/665ba98bc96d7276fb936229.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93622a"
+      },
+      "route": "/media/665ba98bc96d7276fb93622a.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93622b"
+      },
+      "route": "/media/665ba98bc96d7276fb93622b.jpg"
+    }
+  ],
+  "post": "Desde los monumentos históricos hasta los paisajes naturales, Cusco tiene algo para todos. Disfruté cada momento de mi viaje.",
+  "comments": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93622c"
+      },
+      "author": {
+        "$oid": "6659199bc8e7dcb7921b7b6a"
+      },
+      "comment": "Increíble aventura"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93622d"
+      },
+      "author": {
+        "$oid": "665919a9c8e7dcb7921b7b6b"
+      },
+      "comment": "Muy bonito y acogedor"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93622e"
+      },
+      "author": {
+        "$oid": "665919a9c8e7dcb7921b7b6b"
+      },
+      "comment": "Increíble aventura"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93622f"
+      },
+      "author": {
+        "$oid": "6659195cc8e7dcb7921b7b69"
+      },
+      "comment": "Fascinante viaje"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936230"
+      },
+      "author": {
+        "$oid": "665919d4c8e7dcb7921b7b6e"
+      },
+      "comment": "Increíble aventura"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665ba98bc96d7276fb936238"
+  },
+  "offer": {
+    "$oid": "6658d7639f549b72ab7fabaf"
+  },
+  "author": {
+    "$oid": "665919d4c8e7dcb7921b7b6e"
+  },
+  "title": "Tesoros culturales en Cusco",
+  "media": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936232"
+      },
+      "route": "/media/665ba98bc96d7276fb936232.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936233"
+      },
+      "route": "/media/665ba98bc96d7276fb936233.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936234"
+      },
+      "route": "/media/665ba98bc96d7276fb936234.jpg"
+    }
+  ],
+  "post": "La calidez de la gente en Cusco hizo que mi visita fuera aún más especial. Me sentí como en casa durante todo el viaje.",
+  "comments": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936235"
+      },
+      "author": {
+        "$oid": "665919c9c8e7dcb7921b7b6d"
+      },
+      "comment": "Fascinante viaje"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936236"
+      },
+      "author": {
+        "$oid": "665919d4c8e7dcb7921b7b6e"
+      },
+      "comment": "Increíble aventura"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936237"
+      },
+      "author": {
+        "$oid": "665919c9c8e7dcb7921b7b6d"
+      },
+      "comment": "Quiero volver pronto"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665ba98bc96d7276fb93623e"
+  },
+  "offer": {
+    "$oid": "6658d7639f549b72ab7fabaf"
+  },
+  "author": {
+    "$oid": "6659195cc8e7dcb7921b7b69"
+  },
+  "title": "Un día en Cusco",
+  "media": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936239"
+      },
+      "route": "/media/665ba98bc96d7276fb936239.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93623a"
+      },
+      "route": "/media/665ba98bc96d7276fb93623a.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93623b"
+      },
+      "route": "/media/665ba98bc96d7276fb93623b.jpg"
+    }
+  ],
+  "post": "Mi visita a Cusco superó todas mis expectativas. La combinación de cultura, historia y naturaleza es simplemente perfecta.",
+  "comments": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93623c"
+      },
+      "author": {
+        "$oid": "6659195cc8e7dcb7921b7b69"
+      },
+      "comment": "¡Recomendado!"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93623d"
+      },
+      "author": {
+        "$oid": "66591944c8e7dcb7921b7b67"
+      },
+      "comment": "Fascinante viaje"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665ba98bc96d7276fb936244"
+  },
+  "offer": {
+    "$oid": "6658d7639f549b72ab7fabb3"
+  },
+  "author": {
+    "$oid": "665919a9c8e7dcb7921b7b6b"
+  },
+  "title": "Un día en Iquitos",
+  "media": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93623f"
+      },
+      "route": "/media/665ba98bc96d7276fb93623f.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936240"
+      },
+      "route": "/media/665ba98bc96d7276fb936240.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936241"
+      },
+      "route": "/media/665ba98bc96d7276fb936241.jpg"
+    }
+  ],
+  "post": "Pasar tiempo en Iquitos me permitió desconectar del estrés diario y conectar con la naturaleza. Fue una experiencia muy revitalizante.",
+  "comments": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936242"
+      },
+      "author": {
+        "$oid": "665919c9c8e7dcb7921b7b6d"
+      },
+      "comment": "Una experiencia inolvidable"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936243"
+      },
+      "author": {
+        "$oid": "665919b3c8e7dcb7921b7b6c"
+      },
+      "comment": "Increíble aventura"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665ba98bc96d7276fb93624a"
+  },
+  "offer": {
+    "$oid": "6658d7639f549b72ab7fabb2"
+  },
+  "author": {
+    "$oid": "6659199bc8e7dcb7921b7b6a"
+  },
+  "title": "Maravillas naturales de Puno",
+  "media": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936245"
+      },
+      "route": "/media/665ba98bc96d7276fb936245.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936246"
+      },
+      "route": "/media/665ba98bc96d7276fb936246.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936247"
+      },
+      "route": "/media/665ba98bc96d7276fb936247.jpg"
+    }
+  ],
+  "post": "Explorar Puno fue como vivir una aventura en un lugar mágico. Los paisajes y la hospitalidad de la gente local fueron excepcionales.",
+  "comments": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936248"
+      },
+      "author": {
+        "$oid": "665919b3c8e7dcb7921b7b6c"
+      },
+      "comment": "Me encantó este lugar"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936249"
+      },
+      "author": {
+        "$oid": "66591928c8e7dcb7921b7b66"
+      },
+      "comment": "Muy bonito y acogedor"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665ba98bc96d7276fb936252"
+  },
+  "offer": {
+    "$oid": "6658d7639f549b72ab7fabb2"
+  },
+  "author": {
+    "$oid": "665919a9c8e7dcb7921b7b6b"
+  },
+  "title": "Descubriendo la belleza de Puno",
+  "media": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93624b"
+      },
+      "route": "/media/665ba98bc96d7276fb93624b.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93624c"
+      },
+      "route": "/media/665ba98bc96d7276fb93624c.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93624d"
+      },
+      "route": "/media/665ba98bc96d7276fb93624d.jpg"
+    }
+  ],
+  "post": "Cada rincón de Puno tiene una historia que contar. Disfruté mucho aprendiendo sobre la historia y las tradiciones de esta maravillosa ciudad.",
+  "comments": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93624e"
+      },
+      "author": {
+        "$oid": "665919a9c8e7dcb7921b7b6b"
+      },
+      "comment": "Muy bonito y acogedor"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb93624f"
+      },
+      "author": {
+        "$oid": "66591944c8e7dcb7921b7b67"
+      },
+      "comment": "Muy bonito y acogedor"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936250"
+      },
+      "author": {
+        "$oid": "6659195cc8e7dcb7921b7b69"
+      },
+      "comment": "Una experiencia inolvidable"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936251"
+      },
+      "author": {
+        "$oid": "665919b3c8e7dcb7921b7b6c"
+      },
+      "comment": "¡Recomendado!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665ba98bc96d7276fb936259"
+  },
+  "offer": {
+    "$oid": "6658d7639f549b72ab7fabb2"
+  },
+  "author": {
+    "$oid": "6659199bc8e7dcb7921b7b6a"
+  },
+  "title": "Maravillas naturales de Puno",
+  "media": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936253"
+      },
+      "route": "/media/665ba98bc96d7276fb936253.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936254"
+      },
+      "route": "/media/665ba98bc96d7276fb936254.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936255"
+      },
+      "route": "/media/665ba98bc96d7276fb936255.jpg"
+    }
+  ],
+  "post": "Pasar tiempo en Puno me permitió desconectar del estrés diario y conectar con la naturaleza. Fue una experiencia muy revitalizante.",
+  "comments": [
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936256"
+      },
+      "author": {
+        "$oid": "66591950c8e7dcb7921b7b68"
+      },
+      "comment": "Un lugar mágico"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936257"
+      },
+      "author": {
+        "$oid": "66591944c8e7dcb7921b7b67"
+      },
+      "comment": "Una experiencia inolvidable"
+    },
+    {
+      "_id": {
+        "$oid": "665ba98bc96d7276fb936258"
+      },
+      "author": {
+        "$oid": "66591928c8e7dcb7921b7b66"
+      },
+      "comment": "Quiero volver pronto"
+    }
+  ]
+}]
