@@ -1,7 +1,64 @@
-version: "3.9"
+version: '3.8'
+
 services:
-  db:
-    image: mongo
+  offer-service:
+    build: ./offer-service
+    volumes:
+      - ./offer-service:/app
+    depends_on:
+      - mongo
+    environment:
+      - DB_URI=mongodb://mongo:27017/
+    ports:
+      - "3001:3001"
+    networks:
+      - backend
+
+  user-service:
+    build: ./user-service
+    volumes:
+      - ./user-service:/app
+    depends_on:
+      - mongo
+    environment:
+      - DB_URI=mongodb://mongo:27017/
+    ports:
+      - "3002:3002"
+    networks:
+      - backend
+
+  review-service:
+    build: ./review-service
+    volumes:
+      - ./review-service:/app
+    depends_on:
+      - mongo
+    environment:
+      - DB_URI=mongodb://mongo:27017/
+    ports:
+      - "3003:3003"
+    networks:
+      - backend
+
+  api-gateway:
+    build: ./api-gateway
+    volumes:
+      - ./api-gateway:/app
+    depends_on:
+      - offer-service
+      - user-service
+      - review-service
+    environment:
+      - OFFERS_SERVICE=http://offer-service:3001
+      - USERS_SERVICE=http://user-service:3002
+      - REVIEWS_SERVICE=http://review-service:3003
+    ports:
+      - "3000:3000"
+    networks:
+      - backend
+
+  mongo:
+    image: mongo:latest
     ports:
       - "27017:27017"
     volumes:
@@ -15,5 +72,3 @@ volumes:
 
 networks:
   backend:
-
-
